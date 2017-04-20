@@ -6,3 +6,11 @@
 *.ewp
 *.bat
 *.xcl
+*.d51
+*.hex
+*.lst
+*.s51
+*.map
+*.r51
+*.wsdt
+*.wspos
